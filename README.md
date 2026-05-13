@@ -1,6 +1,6 @@
 # Zeutara Real Contact Finder Prototype
 
-A runnable prototype for **Step 3: Find Real Contacts** in the Zeutara BD pipeline.
+A runnable prototype for **Step 2: Find Real Contacts** in the Zeutara BD pipeline.
 
 This prototype takes a list of ICP-qualified companies and returns founder-level contacts that are ready for outreach only if they pass the data quality gate:
 
