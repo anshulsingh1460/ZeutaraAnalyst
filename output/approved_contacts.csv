@@ -1,0 +1,4 @@
+company,domain,contact_name,title,email,linkedin_url,icp_score,funding_age_months,quality_score,source,status,reason
+Northstar API,northstarapi.com,Maya Chen,Founder & CEO,maya@northstarapi.com,https://www.linkedin.com/in/mayachen-northstar,100,13,100,mock_apollo,approved,passed_all_quality_gates
+CarbonGrid,carbongrid.ai,Amara Patel,Technical Founder,amara@carbongrid.ai,https://www.linkedin.com/in/amarapatel-carbongrid,81,8,100,mock_proxycurl,approved,passed_all_quality_gates
+LedgerLoop,ledgerloop.co,Priya Shah,Founder & CEO,priya@ledgerloop.co,https://www.linkedin.com/in/priyashah-ledgerloop,80,17,100,mock_hunter,approved,passed_all_quality_gates

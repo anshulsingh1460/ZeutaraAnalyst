@@ -1,0 +1,6 @@
+company,domain,contact_name,title,email,linkedin_url,icp_score,funding_age_months,quality_score,source,status,reason
+ParcelForge,parcelforge.io,Leo Martin,Co-Founder,leo@parcelforge.io,https://www.linkedin.com/in/leomartin-parcelforge,68,19,70,mock_linkedin_sales_nav,quarantined,funding_event_older_than_18_months;icp_score_below_70
+CivicLayer,civiclayer.gov,Jordan Kim,Founder,jordan@civiclayer.gov,https://www.linkedin.com/in/jordankim-civiclayer,85,16,85,mock_apollo,quarantined,disqualified_sector
+BioPilot,biopilot.bio,Nora Singh,CEO,nora@biopilot.bio,https://www.linkedin.com/in/norasingh-biopilot,43,23,55,mock_clearbit,quarantined,disqualified_sector;funding_event_older_than_18_months;icp_score_below_70
+OrbitDesk,orbitdesk.com,Sam Rivera,Founder,sam@orbitdesk.com,https://www.linkedin.com/in/samrivera-orbitdesk,67,12,70,mock_apollo,quarantined,disqualified_series_b_or_later;icp_score_below_70
+StealthOps,stealthops.io,Evan Brooks,Operations Lead,hello@stealthops.io,,72,15,55,mock_apollo,quarantined,email_not_verified_direct_domain_match;missing_linkedin_profile_url;not_founder_or_decision_maker

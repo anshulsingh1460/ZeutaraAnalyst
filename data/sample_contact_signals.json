@@ -1,0 +1,74 @@
+{
+  "northstarapi.com": [
+    {
+      "name": "Maya Chen",
+      "title": "Founder & CEO",
+      "email": "maya@northstarapi.com",
+      "linkedin_url": "https://www.linkedin.com/in/mayachen-northstar",
+      "source": "mock_apollo"
+    }
+  ],
+  "parcelforge.io": [
+    {
+      "name": "Leo Martin",
+      "title": "Co-Founder",
+      "email": "leo@parcelforge.io",
+      "linkedin_url": "https://www.linkedin.com/in/leomartin-parcelforge",
+      "source": "mock_linkedin_sales_nav"
+    }
+  ],
+  "carbongrid.ai": [
+    {
+      "name": "Amara Patel",
+      "title": "Technical Founder",
+      "email": "amara@carbongrid.ai",
+      "linkedin_url": "https://www.linkedin.com/in/amarapatel-carbongrid",
+      "source": "mock_proxycurl"
+    }
+  ],
+  "civiclayer.gov": [
+    {
+      "name": "Jordan Kim",
+      "title": "Founder",
+      "email": "jordan@civiclayer.gov",
+      "linkedin_url": "https://www.linkedin.com/in/jordankim-civiclayer",
+      "source": "mock_apollo"
+    }
+  ],
+  "biopilot.bio": [
+    {
+      "name": "Nora Singh",
+      "title": "CEO",
+      "email": "nora@biopilot.bio",
+      "linkedin_url": "https://www.linkedin.com/in/norasingh-biopilot",
+      "source": "mock_clearbit"
+    }
+  ],
+  "orbitdesk.com": [
+    {
+      "name": "Sam Rivera",
+      "title": "Founder",
+      "email": "sam@orbitdesk.com",
+      "linkedin_url": "https://www.linkedin.com/in/samrivera-orbitdesk",
+      "source": "mock_apollo"
+    }
+  ],
+  "ledgerloop.co": [
+    {
+      "name": "Priya Shah",
+      "title": "Founder & CEO",
+      "email": "priya@ledgerloop.co",
+      "linkedin_url": "https://www.linkedin.com/in/priyashah-ledgerloop",
+      "source": "mock_hunter"
+    }
+  ],
+  "stealthops.io": [
+    {
+      "name": "Evan Brooks",
+      "title": "Operations Lead",
+      "email": "hello@stealthops.io",
+      "linkedin_url": "",
+      "source": "mock_apollo"
+    }
+  ]
+}

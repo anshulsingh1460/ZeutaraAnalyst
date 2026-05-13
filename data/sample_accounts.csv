@@ -1,0 +1,9 @@
+company,domain,funding_stage,last_funding_date,revenue_signal,intent_signal,team_size,sector,warm_connection
+Northstar API,northstarapi.com,Seed,2025-03-15,confirmed_arr,active,8,B2B SaaS,shared
+ParcelForge,parcelforge.io,Seed,2024-10-02,confirmed_arr,mild,14,proptech,cold
+CarbonGrid,carbongrid.ai,Pre-seed,2025-08-21,pre_rev_with_traction,active,6,climate-tech,portfolio_adjacent
+CivicLayer,civiclayer.gov,Seed,2025-01-12,confirmed_arr,active,10,government,cold
+BioPilot,biopilot.bio,Series A,2024-06-03,confirmed_arr,mild,22,biotech,cold
+OrbitDesk,orbitdesk.com,Series B,2025-05-01,confirmed_arr,active,30,B2B SaaS,shared
+LedgerLoop,ledgerloop.co,Seed,2024-12-10,confirmed_arr,none,11,fintech,cold
+StealthOps,stealthops.io,Seed,2025-02-01,none,mild,4,B2B SaaS,cold
